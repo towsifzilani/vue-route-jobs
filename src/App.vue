@@ -54,4 +54,12 @@ nav {
   color: white;
   background: crimson;
 }
+
+button {
+    padding: 15px 20px;
+    margin: 0px 10px;
+    border: none;
+    font-size: 14px;
+    cursor: pointer;
+}
 </style>
